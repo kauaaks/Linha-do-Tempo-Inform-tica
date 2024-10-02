@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title >Evolução da Informática</title>
+</head>
+<body style="background-color:#141313;">
+    <div> 
+        <h1 style="color:#ffffff; text-align: center">Linha do  Tempo da Informática</h1>
+        <hr color=#ff0000; width="1200px;">
+    </div>
+    <table align="center">
+        <tr>
+          <th style="color:#ffffff;">1857 – Armazenamento de Dados</th>
+          <th style= "width:40%"></th>
+          <th style="color:#ffffff; width: 300; height: 100px;">1885 – Calculadora Odhner Arithmometre</th>
+        </tr>
+        <tr>
+          <td style="color:#ffffff; width: 200px; height: 400px; text-align:justify;">Sir Charles Wheatstone (1802-1875) foi um inventor e físico britânico que desempenhou um papel crucial no desenvolvimento de várias tecnologias ao longo do século XIX. Um de seus contributos mais notáveis foi a utilização de fitas de papel para armazenar dados, uma inovação que se assemelhava ao conceito dos cartões perfurados, mas com uma diferença significativa: a fita podia ser alimentada continuamente através da máquina. Essa abordagem permitia que informações fossem processadas de maneira mais eficiente e contínua, o que era uma grande vantagem em relação aos métodos anteriores.
+
+            As fitas de papel eram utilizadas em dispositivos como telégrafos, onde serviam para transmitir mensagens de forma rápida e precisa. O sistema de Wheatstone também foi empregado em equipamentos de gravação e reprodução sonora, demonstrando a versatilidade dessa tecnologia. O uso de fitas de papel possibilitava maior capacidade de armazenamento e uma operação mais fluida, tornando-se um precursor importante para a tecnologia de computação que conhecemos hoje.
+            
+            Além de seu trabalho com fitas, Wheatstone fez contribuições significativas para a óptica, a eletricidade e a acústica, sendo conhecido por suas invenções relacionadas ao diapasão e à fotografia estereoscópica. Sua visão sobre automação e armazenamento de dados influenciou gerações futuras de inventores e engenheiros. Wheatstone não apenas revolucionou a forma como a informação era manipulada, mas também pavimentou o caminho para os desenvolvimentos que levariam à era digital. Seu legado persiste na maneira como interagimos com máquinas e dispositivos de armazenamento de dados atualmente.</td>
+          <td style="color:#ffffff; width: 400px; height: 100px;"></td>
+          <td style="color:#ffffff;width: 260px; height: 350px; text-align:justify">Willgodt Theophil Odhner (1845-1905) foi um engenheiro e empresário sueco que se destacou em São Petersburgo, na Rússia. Ele é amplamente reconhecido como o inventor do Aristmômetro de Odhner, um dispositivo que revolucionou a forma como os cálculos eram realizados. Lançado em um período de crescente interesse por máquinas de cálculo, o Aristmômetro combinava um design inovador com funcionalidade prática, permitindo que usuários realizassem operações matemáticas de maneira rápida e eficiente.
+
+            A popularidade do Aristmômetro cresceu exponencialmente ao longo das décadas, especialmente na década de 1940, quando se tornou uma das calculadoras mecânicas portáteis mais utilizadas em todo o mundo. O modelo se destacou por sua robustez e facilidade de uso, sendo amplamente adotado por engenheiros, contadores e estudantes. Odhner não apenas contribuiu com um produto inovador, mas também estabeleceu uma fábrica que industrializou a produção dessas máquinas.
+            
+            Seu trabalho ajudou a popularizar as calculadoras mecânicas em diversas áreas, facilitando a automação de cálculos em um tempo em que a precisão era crucial. O legado de Odhner perdura, refletindo sua visão de unir engenharia e praticidade. A influência do Aristmômetro na história da computação é inegável, inspirando inovações futuras em tecnologia de cálculo. Sua contribuição permanece relevante, lembrando-nos da importância da inovação no desenvolvimento de ferramentas essenciais.</td>
+        </tr>
+        <tr>
+          <td style="color:#ffffff; text-align: justify"><img src="https://museualterdata.com.br/wp-content/uploads/2022/11/Charles-Wheatstone.webp" height="250px"></td>
+          <td style="color:#ffffff; width: 100px; height: 120px;"></td>
+          <td style="color:#ffffff; width: 100px; height: 100px; text-align: justify"><img src="https://museualterdata.com.br/wp-content/uploads/2022/11/NMAH-2006-3038-300x201.jpg" height="250px">
+        </tr>
+      </table>
+      <br>
+      <br>
+      <br>
+      <hr color="#ff0000"; width="1200px">
+      <br>
+      <br>
+      <br>
+    <pre>
+            <a style="text-decoration: none; color: gray;" href="xxx.html" >Volte...</a>                                                                                                                                                                                   <a style="text-decoration: none; text-align: right; color: gray;" href="xxx.html" >Continue...</a>
+    </pre>
+</body>
+</html>
